@@ -1,7 +1,9 @@
 <img width="2730" height="1535" alt="a4a88ac0a77a12c547e9dbb8cd30d6c4" src="https://github.com/user-attachments/assets/bfe4329d-ac31-4524-b211-b5f0be4eb6dc" />
-- 👋 Hi, I’m @XBXyftx
-- 👀 一名鸿蒙开发小菜鸡
-- 🌱 Java和web也略有接触
+👋 Hi, I’m @XBXyftx
+👀 一名鸿蒙开发小菜鸡
+🌱 Java和web也略有接触
+
+
 欢迎来我的小站看看[国内博客传送门](https://xbxyftx.top)国外访问[github.io](https://xbxyftx.github.io)
 <!---
 XBXyftx/XBXyftx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
